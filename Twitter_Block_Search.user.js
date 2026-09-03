@@ -2,7 +2,8 @@
 // @name         Twitter Block Search
 // @namespace    https://github.com/evil-pechenka/Twitter-Block-Search
 // @version      1.0.0
-// @description  На странице заблокировавшего вас пользователя в X/Twitter ищет взаимную переписку и отображает кнопку перехода к ней
+// @description  Searches for mutual conversations on blocked profile pages on X/Twitter and adds a navigation button
+// @description:ru На странице заблокировавшего вас пользователя в X/Twitter ищет взаимную переписку и отображает кнопку перехода к ней
 // @author       evil-pechenka
 // @match        https://twitter.com/*
 // @match        https://x.com/*
